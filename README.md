@@ -1,5 +1,5 @@
 # microbit-fireworks
-Neopixel fireworks animation for BBC micro:bit
+Neopixel fireworks animation for the BBC micro:bit
 
 Used to create fireworks in <a href="https://twitter.com/Our_Frank/status/927229036794916865">this video</a> using two sets of 1 metre 60 NeoPixel strips (and two micro:bits).
 
